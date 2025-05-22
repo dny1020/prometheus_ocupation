@@ -1,0 +1,48 @@
+2025-05-22 08:04:05 INFO     __main__  : Processing: 2024-06
+2025-05-22 08:04:05 INFO     __main__  : Processing: 2024-07
+2025-05-22 08:04:05 INFO     __main__  : Processing: 2024-08
+2025-05-22 08:04:05 INFO     __main__  : Processing: 2024-09
+2025-05-22 08:04:05 INFO     __main__  : Processing: 2024-10
+2025-05-22 08:04:05 INFO     __main__  : Processing: 2024-11
+2025-05-22 08:04:05 INFO     __main__  : Processing: 2024-12
+2025-05-22 08:04:05 INFO     __main__  : Processing: 2025-01
+2025-05-22 08:04:06 INFO     __main__  : Processing: 2025-02
+2025-05-22 08:04:06 INFO     __main__  : Processing: 2025-03
+2025-05-22 08:04:06 INFO     __main__  : Processing: 2025-04
+2025-05-22 08:04:06 INFO     __main__  : ✅ CSV saved to: data/TUYA-MEDELLIN_202406_202504.csv (7967 rows)
+2025-05-22 08:12:04 INFO     __main__  : Processing: 2024-06
+2025-05-22 08:12:04 INFO     __main__  : Processing: 2024-07
+2025-05-22 08:12:05 INFO     __main__  : Processing: 2024-08
+2025-05-22 08:12:05 INFO     __main__  : Processing: 2024-09
+2025-05-22 08:12:05 INFO     __main__  : Processing: 2024-10
+2025-05-22 08:12:05 INFO     __main__  : Processing: 2024-11
+2025-05-22 08:12:05 INFO     __main__  : Processing: 2024-12
+2025-05-22 08:12:05 INFO     __main__  : Processing: 2025-01
+2025-05-22 08:12:05 INFO     __main__  : Processing: 2025-02
+2025-05-22 08:12:05 INFO     __main__  : Processing: 2025-03
+2025-05-22 08:12:05 INFO     __main__  : Processing: 2025-04
+2025-05-22 08:12:05 INFO     __main__  : ✅ CSV saved to: data/TUYA-MEDELLIN_202406_202504.csv (7967 rows)
+2025-05-22 08:34:42 INFO     __main__  : Processing: 2024-06
+2025-05-22 08:34:42 INFO     __main__  : Processing: 2024-07
+2025-05-22 08:34:42 INFO     __main__  : Processing: 2024-08
+2025-05-22 08:34:42 INFO     __main__  : Processing: 2024-09
+2025-05-22 08:34:42 INFO     __main__  : Processing: 2024-10
+2025-05-22 08:34:42 INFO     __main__  : Processing: 2024-11
+2025-05-22 08:34:42 INFO     __main__  : Processing: 2024-12
+2025-05-22 08:34:42 INFO     __main__  : Processing: 2025-01
+2025-05-22 08:34:42 INFO     __main__  : Processing: 2025-02
+2025-05-22 08:34:42 INFO     __main__  : Processing: 2025-03
+2025-05-22 08:34:42 INFO     __main__  : Processing: 2025-04
+2025-05-22 08:34:42 INFO     __main__  :  CSV saved to: data/TUYA-MEDELLIN_202406_202504.csv (7967 rows)
+2025-05-22 08:37:37 INFO     __main__  : Processing: 2024-06
+2025-05-22 08:37:37 INFO     __main__  : Processing: 2024-07
+2025-05-22 08:37:37 INFO     __main__  : Processing: 2024-08
+2025-05-22 08:37:37 INFO     __main__  : Processing: 2024-09
+2025-05-22 08:37:37 INFO     __main__  : Processing: 2024-10
+2025-05-22 08:37:37 INFO     __main__  : Processing: 2024-11
+2025-05-22 08:37:37 INFO     __main__  : Processing: 2024-12
+2025-05-22 08:37:37 INFO     __main__  : Processing: 2025-01
+2025-05-22 08:37:37 INFO     __main__  : Processing: 2025-02
+2025-05-22 08:37:38 INFO     __main__  : Processing: 2025-03
+2025-05-22 08:37:38 INFO     __main__  : Processing: 2025-04
+2025-05-22 08:37:38 INFO     __main__  :  CSV saved to: data/TUYA-MEDELLIN_202406_202504.csv (7967 rows)
