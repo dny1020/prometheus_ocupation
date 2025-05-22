@@ -1,0 +1,62 @@
+# === Python bytecode ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# === VSCode config ===
+.vscode/
+*.code-workspace
+
+# === Entorno virtual ===
+venv/
+ENV/
+env/
+.venv/
+
+# === Variables de entorno ===
+.env
+.env.*
+
+# === Logs ===
+logs/
+*.log
+
+# === Archivos temporales / backup ===
+*.bak
+*.swp
+*.swo
+*.tmp
+*.DS_Store
+
+# === Archivos de salida ===
+data/*.csv
+!data/.gitkeep  # (si quieres mantener la carpeta vacía en git)
+
+# === Test / Coverage ===
+htmlcov/
+.tox/
+.coverage
+coverage.xml
+.cache/
+pytest_cache/
+
+# === MyPy / lint tools ===
+.mypy_cache/
+.pytest_cache/
+.pyright/
+ruff_cache/
+
+# === Build artifacts ===
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# === Jupyter Notebooks autosave ===
+*.ipynb_checkpoints
+
+# === OS-specific ===
+Thumbs.db
+.DS_Store
