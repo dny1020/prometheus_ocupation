@@ -33,7 +33,7 @@ prometheus_ocupation/
 
 - Python 3.8+
 - Prometheus with HTTP access to `/api/v1/query_range`
-- Access to Prometheus metric: `trunk_call_total`
+- Access to Prometheus metric: `metric`
 
 ## Installation
 
@@ -56,7 +56,7 @@ cp .env.example .env
 Edit .env with your desired values:
 
 PROMETHEUS_URL=http://localhost:9090
-QUERY=trunk_call_total{trunk_name="trunk-name"}
+QUERY=metric
 CLIENT=client-name
 START_MONTH=2024-06
 END_MONTH=2025-04
